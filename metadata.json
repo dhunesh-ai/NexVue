@@ -1,0 +1,8 @@
+{
+  "name": "rako",
+  "description": "Autonomous driving vision system prototype detecting road signs, potholes, and obstacles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
